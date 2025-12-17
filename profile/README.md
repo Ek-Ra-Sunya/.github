@@ -1,83 +1,95 @@
-# 👋 Hey there, Welcome to **Ek Ra Sunya Inc!**
+<p align="center">
+  <a href="https://ekrasunya.com">
+    <img src="https://cdn.ekrasunya.com/logo.png" alt="Ek Ra Sunya Inc Logo" height="100" />
+  </a>
+</p>
 
-[![Ek Ra Sunya Logo](https://cdn.ekrasunya.com/logo.png)](https://ekrasunya.com)
+<h1 align="center">Ek Ra Sunya Inc</h1>
+
+<p align="center">
+  Building scalable, high-performance digital solutions for a connected world.
+</p>
+
+---
 
 ## 🚀 About Us
 
-**Ek Ra Sunya Inc** is a technology-driven IT company based in **Kathmandu, Nepal** focused on delivering scalable and high-performance **software and digital solutions** that help businesses thrive in the digital era. :contentReference[oaicite:0]{index=0}
+**Ek Ra Sunya Inc** is a technology-driven IT company based in **Kathmandu, Nepal**, dedicated to designing and delivering **scalable, secure, and high-performance software solutions** for modern businesses.
 
-We specialize in **web & mobile application development**, custom software, and digital innovation — empowering clients with solutions that are both smart and reliable. :contentReference[oaicite:1]{index=1}
+We work closely with startups, SMEs, and enterprises to transform ideas into reliable digital products through **clean architecture, thoughtful design, and modern engineering practices**.
 
-- 🗺️ **Headquarters:** Saraswoti Marg, Balkumari, Lalitpur, Nepal :contentReference[oaicite:2]{index=2}  
-- 📅 **Founded:** 2025 :contentReference[oaicite:3]{index=3}  
-- 💼 **Team Size:** 10–49 professionals :contentReference[oaicite:4]{index=4}  
-- 🌍 **Website:** https://ekrasunya.com
+- 📍 **Headquarters:** Saraswoti Marg, Balkumari, Lalitpur, Nepal  
+- 🗓️ **Founded:** 2025  
+- 👥 **Team Size:** 10–49 professionals  
+- 🌐 **Website:** [https://ekrasunya.com](https://ekrasunya.com)
 
 ---
 
-## 🛠️ What We Do
+## 🛠️ Our Services
 
-At Ek Ra Sunya Inc, we blend **innovation, creativity, and technology** to build meaningful digital solutions:
+We combine strategy, design, and engineering to build impactful digital solutions.
 
-### 🔹 Core Services
+### Core Offerings
 - **Web Application Development**  
-- **Mobile App Development (iOS & Android)**  
-- **Custom Software Solutions**  
-- **Scalable Backend Systems**  
-- **High-Performance Architecture Design**  
-- **QA & Software Support**  
-- **IT Consulting Services** :contentReference[oaicite:5]{index=5}
+- **Mobile Application Development (iOS & Android)**  
+- **Custom Software Development**  
+- **Backend & API Engineering**  
+- **High-Performance & Scalable System Architecture**  
+- **Quality Assurance & Ongoing Support**  
+- **IT Consulting & Technical Advisory**
 
-### 🌐 Emerging Tech
-We stay ahead with modern technologies and approaches to deliver future-ready products.
+We focus on delivering **maintainable, scalable, and future-ready systems** aligned with business goals.
 
 ---
 
-## 💻 Tech & Tools (Typical Stack)
+## 💻 Technology Stack
 
-> (Example technologies we use or are proficient with)
+> Our technology choices are driven by performance, scalability, and long-term maintainability.
 
 | Category | Technologies |
-|----------|--------------|
-| Frontend | React, Next.js |
-| Backend | Node.js, Nest.js, Laravel, Python |
-| Mobile | Flutter |
-| DevOps | Docker, Kubernetes |
-| Database | PostgreSQL, MySQL, SQLite, MongoDB |
-| Others | API Design, CI/CD pipelines |
+|--------|--------------|
+| **Frontend** | React, Next.js |
+| **Backend** | Node.js, NestJS, Laravel, Python |
+| **Mobile** | Flutter |
+| **DevOps** | Docker, Kubernetes |
+| **Databases** | PostgreSQL, MySQL, SQLite, MongoDB |
+| **Others** | REST & API Design, CI/CD Pipelines |
 
-> *Note: Actual tech stack may vary based on project needs.*
+*Note: Technology stack may vary depending on project requirements.*
 
 ---
 
 ## 🌟 Our Mission
 
-> To empower businesses with innovative, efficient, and secure digital solutions that accelerate growth and maximize impact. :contentReference[oaicite:6]{index=6}
+> To empower businesses through innovative, efficient, and secure digital solutions that drive measurable growth and long-term success.
 
-## 👀 Our Vision
+## 👁️ Our Vision
 
-> To be a globally recognized software partner for startups, enterprises, and innovators by delivering exceptional and sustainable digital products. :contentReference[oaicite:7]{index=7}
+> To become a trusted global technology partner known for engineering excellence, reliability, and sustainable digital innovation.
 
 ---
 
 ## 📌 Contact Us
 
-📧 **Email:** info@ekrasunya.com  
-📞 **Phone:** +977 981 819 7166 :contentReference[oaicite:8]{index=8}  
-🌐 **Website:** https://ekrasunya.com  
-📍 **Location:** Saraswoti Marg, Balkumari, Lalitpur, Nepal :contentReference[oaicite:9]{index=9}
+We’d love to collaborate and build something meaningful together.
+
+- 📧 **Email:** info@ekrasunya.com  
+- 📞 **Phone:** +977 981 819 7166  
+- 🌐 **Website:** [https://ekrasunya.com](https://ekrasunya.com)  
+- 📍 **Location:** Saraswoti Marg, Balkumari, Lalitpur, Nepal  
 
 ---
 
-## ⭐ Why Choose Us
+## ⭐ Why Ek Ra Sunya Inc
 
-- Tailored & High-Performance Solutions  
-- Transparent Workflow  
-- Modern Technologies & Best Practices  
-- Client-Focused & Scalable Products  
-- Committed to Long-Term Success
+- Business-focused and outcome-driven approach  
+- Clean, scalable, and maintainable codebases  
+- Transparent communication & agile workflows  
+- Modern tools, best practices, and proven architectures  
+- Long-term partnership mindset
 
 ---
 
-> Let’s build something amazing together! 🚀
-
+<p align="center">
+  <strong>Let’s build something exceptional together.</strong> 🚀
+</p>
